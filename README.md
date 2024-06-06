@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fisishellaHR
+- 👀 I’m interested in : Frontend
+- 🌱 I’m currently learning : Reactjs
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : hegihayagi34@gmail.com
